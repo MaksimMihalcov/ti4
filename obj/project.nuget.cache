@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3SbcbpJFksepzcfTpbev4Eg2uYFRojkg8DZ0jn6GzJkXqvtirq3gqbV1sl+JxW8f/IMlHY7t7UmRMasPYpJxMw==",
+  "success": true,
+  "projectFilePath": "D:\\THIS.PROJECT\\ТИ\\Laba4\\RSA\\RSA\\RSA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
